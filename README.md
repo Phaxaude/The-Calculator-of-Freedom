@@ -1,2 +1,9 @@
 # The-Calculator-of-Freedom
-A calculator developed to predict interest on a savings account with monthly deposits over many years.
+A calculator developed to predict interest on a savings account with monthly deposits using monthly compounded interest over years.
+
+This project was developed to display interest gained and the totals from user input interest rate, a number of years, initial deposit amount and monthly deposit amount.  It displays the predicted interest with and without monthly deposits.
+I felt a did the calculations particularly well considering my struggles in Pre-Calc.  Also organized the code very well, considering how many times I had to start over that was a skill I improved upon much.
+I could enhance my code by potentially separating the InvestmentInfo class into said class and a userinput class.  It would make the code even easier to read.  Perhaps I could even shorten the amount of variables used in the whole program.
+The most challenging part of this code I found to write was honestly the planning stage.  I had an idea of how I was going to create this program, but in the end the way it was organized and the functions that were carried out were much different than the original plan I had drawn out.  I am keeping Microsoft studio as one of my tools, though the compile and update times for using this program with files stored on an external drive can be tiresome and lengthy, while working on my hard drive everything ran perfect and it caught many mistakes I had made.
+The organizational aspect of this project will certainly carry on to other future endeavors.  It was reinforced in my experience how important it is to maintain organized and readable code, for if it is not most of the struggle will be in finding where peices are and repeating code bits.
+I made this program maintainable, readeable and adaptable by keeping things separate, in order, spaced well and commented effeciently.
